@@ -2,6 +2,11 @@
 
 A simple web-based QR Code Generator built using HTML, CSS, and JavaScript. This tool allows users to easily generate QR codes for any text or URL using a free public API.
 
+📸 Demo
+
+![Screenshot 2025-07-04 183052](https://github.com/user-attachments/assets/630d9565-b35d-4428-be14-dbe04e246f09)
+
+
 🚀 Features
 
 1.🔤 Accepts any text or URL input
